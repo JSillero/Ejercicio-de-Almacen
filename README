@@ -1,0 +1,3 @@
+GESTESIMAL: clase de interaccion con el usuario
+COMUNICACION: clase de manipulacion del array list de productos
+PRODUCTOS: clase de la cual se usan las instancias
